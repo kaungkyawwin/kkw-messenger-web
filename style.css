@@ -1,0 +1,74 @@
+.menuItem {
+    text-decoration: none;
+}
+
+.right {
+    display: inline-block;
+    width: 40%;
+}
+
+.left {
+    display: inline-block;
+    width: 50%;
+}
+
+.end {
+    margin-top: 80px;
+}
+
+.h1 {
+    
+    margin-bottom: 10px;
+    font-size: 50px;
+    margin-top: 0px;
+}
+
+.intro {
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
+.text {
+    margin-bottom: 10px;
+    background-color: #DADBDD;
+    border: none;
+    border-radius: 10px;
+}
+
+.pw {
+    margin-bottom: 15px;
+    background-color: #DADBDD;
+    border: none;
+    border-radius: 10px;
+}
+
+.button {
+    margin-bottom: 10px;
+    background-color: rgb(10, 124, 255);
+    border: none;
+    border-radius: 24px;
+    padding: 8px 14px;
+    color: white;
+
+}
+
+.checkbox {
+    margin-bottom: 18px;
+}
+
+.fpw {
+    display: block;
+    margin-bottom: 10px;
+    margin-bottom: 10px;
+    text-decoration: none;
+    color: black;
+}
+
+.endleft {
+    display: inline-block;
+}
+
+.endright {
+    display: inline-block;
+
+}
